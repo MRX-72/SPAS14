@@ -3,7 +3,7 @@ GNU nano 5.2       README.md        Modified
 
 > **USAGE:**
 
-`pkg install clang`
+```pkg install clang```
 >
 `cd SPAS14`
 >
@@ -13,4 +13,4 @@ GNU nano 5.2       README.md        Modified
 
 # **Enter 1, 2, 3 or 4**
 
-> **[Not Safe]**
+# > **[Not Safe]**
