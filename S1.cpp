@@ -33,7 +33,7 @@ int main()
     cout<<"[2] tf()\n";   // N
     cout<<"[3] crash()\n";// U
     cout<<"[4] tftrap()\n\n";//
-lb:    
+   
     cout << ">> ";
     cin >> f; //Input 
     
@@ -52,7 +52,6 @@ lb:
         
         default: // If input != 1 || 2 || 3 || 4
            cout<<"[E] : Not a valid option\n";
-           goto lb; //Take the Input again 
            break;
     }
     return 0;
